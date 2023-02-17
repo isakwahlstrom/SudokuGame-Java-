@@ -4,9 +4,7 @@
  * if it is a start tile (= a correct number placed out
  * when the game is initialized).
  */
-package se.kth.isakwah.labb4.model;
-
-import java.io.Serializable;
+/*Imports*/
 
 public class Tile implements Serializable {
     private final int row;
