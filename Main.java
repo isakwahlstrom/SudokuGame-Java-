@@ -1,11 +1,4 @@
-package se.kth.isakwah.labb4;
-
-import javafx.application.Application;
-import javafx.scene.Scene;
-import javafx.stage.Stage;
-import se.kth.isakwah.labb4.model.SudokuModel;
-import se.kth.isakwah.labb4.model.SudokuUtilities;
-import se.kth.isakwah.labb4.view.SudokuView;
+/*Imports */
 
 public class Main extends Application {
     @Override
