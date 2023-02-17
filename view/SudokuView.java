@@ -1,19 +1,4 @@
-package se.kth.isakwah.labb4.view;
-
-import javafx.application.Platform;
-import javafx.event.ActionEvent;
-import javafx.event.EventHandler;
-import javafx.geometry.Pos;
-import javafx.scene.control.*;
-import javafx.scene.input.MouseEvent;
-import javafx.scene.layout.BorderPane;
-import javafx.scene.layout.TilePane;
-import javafx.scene.layout.VBox;
-import javafx.scene.text.Font;
-import javafx.scene.text.FontWeight;
-import se.kth.isakwah.labb4.model.SudokuModel;
-import java.util.Objects;
-
+/*Imports*/
 
 public class SudokuView extends BorderPane {
     public static final int GRID_SIZE = 9;
