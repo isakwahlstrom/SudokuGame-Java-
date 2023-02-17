@@ -1,6 +1,4 @@
-package se.kth.isakwah.labb4.model;
-
-import java.io.*;
+/*Imports*/
 
 /** Implementation of serialization and deserialization
  * of SudokoModel class.
