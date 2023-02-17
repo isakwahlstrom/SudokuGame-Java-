@@ -1,5 +1,4 @@
-package se.kth.isakwah.labb4.model;
-import java.util.Random;
+/*Imports*/
 
 public class SudokuUtilities {
     public enum SudokuLevel {EASY, MEDIUM, HARD}
