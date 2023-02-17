@@ -2,11 +2,7 @@
  * The SudokuModel class represents the game logic for one game.
  */
 
-package se.kth.isakwah.labb4.model;
-
-import java.io.Serializable;
-import java.util.ArrayList;
-import java.util.Random;
+/*Imports*/
 
 public class SudokuModel implements Serializable {
     private ArrayList<Tile> GameBoard;
