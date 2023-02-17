@@ -1,12 +1,4 @@
-package se.kth.isakwah.labb4.view;
-import javafx.stage.FileChooser;
-import javafx.stage.Stage;
-import se.kth.isakwah.labb4.model.SudokuIO;
-import se.kth.isakwah.labb4.model.SudokuModel;
-import se.kth.isakwah.labb4.model.SudokuUtilities;
-import java.io.File;
-import java.io.IOException;
-
+/*Imports*/
 
 public class SudokuController {
     private SudokuModel model;
